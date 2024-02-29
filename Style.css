@@ -1,0 +1,29 @@
+.body {
+    background-image: url(Background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 97vh;
+}
+
+.video {
+    height: 45vh;
+    border-radius: 14px;
+    position: relative;
+    top: 80;
+}
+
+.image {
+    height: 90vh;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+}
