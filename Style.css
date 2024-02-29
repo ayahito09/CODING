@@ -18,9 +18,9 @@
     border-radius: 14px;
     position: relative;
     margin: auto; /* Menempatkan video di tengah horizontal */
-    top: 28%; /* Memindahkan video ke tengah vertikal */
+    top: 30%; /* Memindahkan video ke tengah vertikal */
     transform: translateY(-50%); /* Menggeser video ke atas sejauh setengah dari tingginya */
-    box-shadow: 0 0 0 3px rgb(255, 95, 55); /* Menambahkan outline stroke warna hitam */
+    box-shadow: 0 0 0 3px rgb(255, 97, 35); /* Menambahkan outline stroke warna hitam */
 }
 
 
